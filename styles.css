@@ -1,0 +1,45 @@
+body {
+    background: #BDBDBD;
+
+}
+
+.navbar {
+    background: white;
+    padding: 10px;
+    justify-items: center;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+div.post {
+    background: white;
+    margin-bottom: 40px;
+}
+
+.post h2,
+div.post p {
+    padding: 10px;
+}
+span{
+    color: #888787;
+}
+
+div.container {
+    width: 600px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 5px 0px 5px;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+    object-fit: fit;
+}
